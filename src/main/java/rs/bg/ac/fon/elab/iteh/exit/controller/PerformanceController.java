@@ -1,7 +1,6 @@
 package rs.bg.ac.fon.elab.iteh.exit.controller;
 
 import org.springframework.web.bind.annotation.*;
-import rs.bg.ac.fon.elab.iteh.exit.model.Event;
 import rs.bg.ac.fon.elab.iteh.exit.model.Performance;
 
 import java.util.List;
